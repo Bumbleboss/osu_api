@@ -18,7 +18,9 @@ System.out.print(api.getBeatmapsById("1296664", 0).get(0).getTitle());
 ```
 
 ## Download
-In a min
+**Latest version**: [GitHub releases](https://github.com/Bumbleboss/osu_api/releases)
+[![](https://jitpack.io/v/Bumbleboss/osu_api.svg)](https://jitpack.io/#Bumbleboss/osu_api)
+
 
 ## Dependencies
 * [json-20180130](https://github.com/stleary/JSON-java)
